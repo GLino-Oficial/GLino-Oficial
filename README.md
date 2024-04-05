@@ -1,5 +1,6 @@
 ### Olá! Prazer eu sou o Gabriel, mas pode me chamar de Lino 📶
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriellino/)
+
 ![Lino GitHub stats](https://github-readme-stats.vercel.app/api?username=GLino-Oficial&theme=midnight-purple&show_icons=true)
 
 
